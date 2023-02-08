@@ -2,7 +2,7 @@
 
 (name current-web-pipelines)
 
-(generate_opam_files false)
+(generate_opam_files true)
 
 (source
  (github tarides/current-web-pipelines))
